@@ -42,7 +42,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Pobierz i słuchaj już dziś. # Optional
+marketing_header: Pobierz i Słuchaj już dziś. # Optional
 marketing_desc: Radio „Glos Nadziei” (Grupa AWR360°) to chrześcijańska stacja z 40-letnim stażem na polskim rynku medialnym. Dobre słowo, pozytywne refleksje, literatura faktu i oryginalna muzyka, to atuty rozgłośni. Słuchaj i polecaj, bo „Głos Nadziei” to coś więcej niż tylko radio!
 
 #
@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Radio Głos Nadziei
+description: - Pobierz i Słuchaj
 
 #
 # Google Analytics
